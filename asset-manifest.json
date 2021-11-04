@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/next-threejs/static/css/main.5739ad41.chunk.css",
+    "main.js": "/next-threejs/static/js/main.29d277e8.chunk.js",
+    "main.js.map": "/next-threejs/static/js/main.29d277e8.chunk.js.map",
+    "runtime-main.js": "/next-threejs/static/js/runtime-main.ab147c97.js",
+    "runtime-main.js.map": "/next-threejs/static/js/runtime-main.ab147c97.js.map",
+    "static/js/2.d8f9fdb9.chunk.js": "/next-threejs/static/js/2.d8f9fdb9.chunk.js",
+    "static/js/2.d8f9fdb9.chunk.js.map": "/next-threejs/static/js/2.d8f9fdb9.chunk.js.map",
+    "static/js/3.d71dd0e2.chunk.js": "/next-threejs/static/js/3.d71dd0e2.chunk.js",
+    "static/js/3.d71dd0e2.chunk.js.map": "/next-threejs/static/js/3.d71dd0e2.chunk.js.map",
+    "static/js/4.fc160915.chunk.js": "/next-threejs/static/js/4.fc160915.chunk.js",
+    "static/js/4.fc160915.chunk.js.map": "/next-threejs/static/js/4.fc160915.chunk.js.map",
+    "index.html": "/next-threejs/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/next-threejs/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.d8f9fdb9.chunk.js.LICENSE.txt": "/next-threejs/static/js/2.d8f9fdb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab147c97.js",
+    "static/js/2.d8f9fdb9.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.29d277e8.chunk.js"
+  ]
+}
