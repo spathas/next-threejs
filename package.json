@@ -1,6 +1,6 @@
 {
-  "homepage": "https://spathas.github.io/react-threejs/",
-  "name": "react-threejs",
+  "homepage": "https://spathas.github.io/next-threejs/",
+  "name": "next-threejs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
